@@ -1,6 +1,9 @@
-import random
-import datetime
-
+{
+  "timestamp": "2023-03-16 14:30:25.123456",
+  "xmr_address": "16a3e4b6b8d9e7f3c5b2a6e9d7f8e9c5b3a6e9d7f8e9c5b3a6e9d7f8e9c5b3",
+  "amount": 0.4567890123,
+  "label": "U9ZK2WfJ5wB9gC4WwX7X8wT3xWwY9ZK2WfJ5wB9gC4WwX"
+}
 def generate_random_data():
     random_data = {
         'timestamp': str(datetime.datetime.now()),
