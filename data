@@ -1,0 +1,17 @@
+import random
+import datetime
+
+def generate_random_data():
+    random_data = {
+        'timestamp': str(datetime.datetime.now()),
+        'xmr_address': '16{}{}'.format(
+            ''.join([random.choice('0123456789ABCDEF') for _ in range(34)]),
+            ''.join([random.choice('0123456789ABCDEF') for _ in range(34)])
+        ),
+        'amount': round(random.uniform(0.01, 1000), 8),
+        'label': ''.join([random.choice('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789') for _ in range(20)])
+    }
+    return random_data
+
+random_data = generate_random_data()
+print(random_data)
