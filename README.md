@@ -17,4 +17,4 @@ To use Monero Multisig, simply clone this repository and start exploring the cod
 We encourage contributions from the community. If you have any ideas or suggestions, please open an issue or submit a pull request.
 
 ## License
-Monero Multisig is licensed under the MIT License. See the LICENSE file for details.
+Monero Multisig is licensed under the MIT License. See the LICENSE file for details..
