@@ -1,4 +1,4 @@
-# Monero Multisig
+# Monero Multisig TRAIL
 Monero Multisig is a project focused on exploring the possibilities of Monero multisignature transactions.
 
 ## What is Monero?
