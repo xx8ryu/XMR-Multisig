@@ -1,7 +1,7 @@
 Monero -   /   Multisig -   /  TRAIL -   /    
 
 Monero Multisig is a project focused on exploring the possibilities of Monero multisignature transactions.
-
+ 
 ## What is Monero?
 Monero is a privacy-focused, open-source cryptocurrency that allows for completely decentralized and private transactions. It is built on a blockchain and uses a proof-of-work consensus algorithm.
 
