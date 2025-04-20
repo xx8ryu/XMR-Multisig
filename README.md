@@ -5,7 +5,6 @@ Monero Multisig is a project focused on exploring the possibilities of Monero mu
 ## What is Monero?
 Monero is a privacy-focused, open-source cryptocurrency that allows for completely decentralized and private transactions. It is built on a blockchain and uses a proof-of-work consensus algorithm.
 
-
 ## What is Multisignature?
 Multisignature, or multisig, is a feature in cryptocurrency transactions that allows for multiple signatures to be required for a transaction to be considered valid. This provides an additional layer of security and control over funds.
 
