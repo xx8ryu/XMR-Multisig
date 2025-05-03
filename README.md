@@ -19,13 +19,3 @@ We encourage contributions from the community. If you have any ideas or suggesti
 
 ## License
 Monero Multisig is licensed under the MIT License. See the LICENSE file for details..
-
-
-
-
-
-
-
-
-
-
